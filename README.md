@@ -5,4 +5,3 @@ I am in the process of designing and developing my personal web portfolio using 
 
 
 
-Feel free to use my source code to develop your own personal page.   
