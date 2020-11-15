@@ -100,17 +100,6 @@ PRELOADER
 }
 
 
-
-
-
-/*
-**************************
-NAVIGATION OPACITY
-**************************
-*/
-
-
-
 .opacity-nav{
   position:fixed;
   display:none;
@@ -317,14 +306,6 @@ header li:hover ul{
   position: absolute; padding: 0; display: block; width: 260px;
 }
 
-
-
-/*
-**************************
-CONTENT
-**************************
-*/
-
 .hero-image{
   position:relative; 
   width:100%; 
@@ -428,12 +409,6 @@ CONTENT
             50% { opacity:0; }
             100% { opacity:1; }
         }
-
-/*
-**************************
-HOME SIDEBAR
-**************************
-*/
 
 .home-sidebar{
   top:0;
@@ -561,11 +536,6 @@ li.grid-item img{
   width:360px;
 }
 
-/*
-**************************
-FOOTER
-**************************
-*/
 
 #footer-box{height:150px; margin-top:75px;}
 
